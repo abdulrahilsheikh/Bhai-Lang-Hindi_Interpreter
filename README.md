@@ -1,8 +1,9 @@
 # Bhai-Lang-Hindi_Interpreter
 This is a hindi version of Bhai-Lang developed in python.
-This idea is inspired from [Bhai-Lang](https://bhailang.js.org/). <br /><br />The idea of hindi as a programming language is emerged form the movie Intersteller.
+This idea is inspired from [Bhai-Lang](https://bhailang.js.org/). <br /><br />The idea of hindi as a programming language is emerged form the movie Intersteller.<br />
 Altough there is no language that can programme in hindi so i made this tool.
-Altough its just a toy programming language and using hindi for programming is a fun as well aproud moment for hindi speaking people.
+### This tool only converts the hindi language into python script
+Altough its just a toy programming language and using hindi for programming is a fun as well a proud moment for hindi speaking people.
 <br /><br />This is just a tool to convert hindi syntax in to python syntax.
 the final programme runs on python.
 So mak sure that python is intalled on your system befor trying this out.
