@@ -11,3 +11,7 @@ So mak sure that python is intalled on your system befor trying this out.
 This approach can be used to use any speaking language like Marathi, telgu, tamil, pujabi, bengali etc to be used for programming.
 The only drawback is that all the words used as syntaxes cant be used in any of the variable becaus the tool replaces every word macthing the synatx in the programme to replace it with english equivalent syntax.
 Feel free to modify this tool  and do tag me to show what did you do.
+<br /><br />
+Below is a demo snippet of the programme written in hindi 😜just some random idiotic stuffs, but still it works😎. 
+<br /><br />
+![Demo_01 (2)](https://user-images.githubusercontent.com/42449858/160890331-68566daf-2f90-4c8f-a748-feb80e5cab85.png)
